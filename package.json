@@ -1,6 +1,6 @@
 {
   "name": "baggy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asynchronous type resolution with dependencies",
   "main": "index.js",
   "author": "Christopher M. Baker",

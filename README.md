@@ -8,8 +8,10 @@
 [![devDependencies](https://david-dm.org/bakerface/baggy/dev-status.svg)](https://david-dm.org/bakerface/baggy#info=devDependencies)
 [![downloads](http://img.shields.io/npm/dm/baggy.svg)](https://www.npmjs.com/package/baggy)
 
-The purpose of this package is to provide a way to resolve types asynchronously.
-Let's take a look at the simplest example:
+This package has been deprecated. Please use
+[ziploc](https://github.com/bakerface/ziploc) for new projects. The purpose of
+this package is to provide a way to resolve types asynchronously.  Let's take a
+look at the simplest example:
 
 ``` javascript
 var Bag = require('baggy');
